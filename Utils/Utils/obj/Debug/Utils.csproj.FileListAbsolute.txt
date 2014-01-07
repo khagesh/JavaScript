@@ -1,0 +1,5 @@
+D:\My\Goals\Utils\Utils\Utils\bin\Utils.dll
+D:\My\Goals\Utils\Utils\Utils\bin\Utils.pdb
+D:\My\Goals\Utils\Utils\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+D:\My\Goals\Utils\Utils\Utils\obj\Debug\Utils.dll
+D:\My\Goals\Utils\Utils\Utils\obj\Debug\Utils.pdb
